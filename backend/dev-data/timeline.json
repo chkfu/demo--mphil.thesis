@@ -1,0 +1,205 @@
+[
+  {
+    "title": "The Emergence of the Idea",
+    "subtitle": "Knowledge Circulation",
+    "content": "Huang Junxian (黃遵憲), a Chinese Diplomat, firstly introduced the idea of the police in his publication, History of Japan (日本國志)",
+    "date": "1887",
+    "category": "Late Qing Period"
+  },
+  {
+    "title": "Hundred Day's Reform",
+    "subtitle": "Historical Event",
+    "content": "Qing Emperor Guangxu attempted to modernize China through political and institutional changes, lasting for 103 days.",
+    "date": "1898",
+    "category": "Late Qing Period"
+  },
+  {
+    "title": "Hunan Security Bureau",
+    "subtitle": "Police Reform",
+    "content": "Huang Junxian started the police experiment with the creation of Hunan Security Bureau (湖南保衛局). The Bureau later terminated due to the failure of Hundred Day's Reform.",
+    "date": "1898",
+    "category": "Late Qing Period"
+  },
+  {
+    "title": "The Boxer Rebellion",
+    "subtitle": "Historical Event",
+    "content": "The Boxer Rebellion battles were fought between Boxer rebels and a coalition of eight foreign powers, ending with foreign powers occupying Peking and Tientsin.",
+    "date": "1900-01",
+    "category": "Late Qing Period"
+  },
+  {
+    "title": "Peking Police Academy",
+    "subtitle": "Police Education",
+    "content": "Japanese advisor Kawashima Naniwa established the Peking Police Academy (京師警務學堂) in China, supporting future development of Chinese policing.",
+    "date": "1901",
+    "category": "Late Qing Period"
+  },
+  {
+    "title": "Paoding and Tientsin Policing",
+    "subtitle": "Police Reform",
+    "content": "Viceroy Yuan Shi-kai started the police experiment in Paoding and later transplanted into Tientsin for securing the sovereignty control.",
+    "date": "1902",
+    "category": "Late Qing Period"
+  },
+  {
+    "title": "Ministry of Police",
+    "subtitle": "Police Reform",
+    "content": "The Qing Government established the Ministry of Police (巡警部). They further scheduled an eight-year police reform which aimed to complete national police construction before the end of 1915.",
+    "date": "1905",
+    "category": "Late Qing Period"
+  },
+  {
+    "title": "Beiyang Government",
+    "subtitle": "Historical Event",
+    "content": "The Beiyang government emerged as a provisional government after Qing Dynasty's collapse. Warlordism was growing under the weak state control and strong localism in the era of early Republican China.",
+    "date": "1912",
+    "category": "Beiyang Period"
+  },
+  {
+    "title": "The Higher Police Academy",
+    "subtitle": "Police Education",
+    "content": "With Superintendent Wang Yangbin (王揚濱) 's attempt on unification, the Naitonal Higher Police Academy (內政部高等警官學校), known as Peking Academy, was the highest institution, forming the three-tier educational system with provincial academies and constable schools.   The academy-runned Journal of Higher Police Academy (警高月刊) was published between 1934 and 1936.",
+    "date": "1917",
+    "category": "Beiyang Period"
+  },
+  {
+    "title": "Northern Expedition",
+    "subtitle": "Historical Event",
+    "content": "Nationalist Party reunified China and defeat warlords, culminating in the establishment of the Nanjing government in 1928.",
+    "date": "1926-28",
+    "category": "Beiyang Period"
+  },
+  {
+    "title": "Three-year Police Reform",
+    "subtitle": "Police Reform",
+    "content": "For the police reform, Nanking Government streamlined Beiyang's police system and scheduled a three-year police reform but later extended.",
+    "date": "1928",
+    "category": "Nationalist Period"
+  },
+  {
+    "title": "Chekiang Police Academy",
+    "subtitle": "Police Education",
+    "content": "Minister Chu Chia-hua (朱家驊) imitated Peking settings and established Chekiang Police Academy for local police reform. The Academy journals, Police Light series (警光), were published between 1929 and 1934",
+    "date": "1928",
+    "category": "Nationalist Period"
+  },
+  {
+    "title": "Mukden Incident",
+    "subtitle": "Historical Event",
+    "content": "Mukden Incident was a staged explosion of a Japanese-owned railway in 1931 that Japan used as a pretext for invading Manchuria, northeast China.",
+    "date": "1931",
+    "category": "Nationalist Period"
+  },
+  {
+    "title": "Dai Li joined Chekiang Academy",
+    "subtitle": "Clique Development",
+    "content": "Dai Li (戴笠) became the political officer of the Academy after Chu Chia-hua's leave. He cultivated his special police units and gradually controlled the management of the Academy.",
+    "date": "1932",
+    "category": "Nationalist Period"
+  },
+  {
+    "title": "Chekiang Police Association",
+    "subtitle": "Clique Development",
+    "content": "The Chekiang-based police professionals, especially elite graduates from Chekiang Police Academy, established Chekiang Police Association (浙江警察協會) in 1932. Their affiliated journal Chekiang Police Magazine (浙江警察雜誌) was published between 1934 and 1937.",
+    "date": "1932",
+    "category": "Nationalist Period"
+  },
+  {
+    "title": "Modern Police Society",
+    "subtitle": "Clique Development",
+    "content": "The alumni of Peking Police Academy established Modern Police Society (現代警察學會) and published their affiliated journal Modern Police (現代警察) between 1933 and 1939.",
+    "date": "1933",
+    "category": "Nationalist Period"
+  },
+  {
+    "title": "Relocation of Peking Academy",
+    "subtitle": "Police Education",
+    "content": "The Higher Police Academy relocated to Nanking, the capital, in order to consolidate central government's control over police sector. The Academy published The Higher Police Academy School Journal (警高月刊) between 1934 and 1936.",
+    "date": "1934",
+    "category": "Nationalist Period"
+  },
+  {
+    "title": "Li Shizhen joinned Nanking Academy",
+    "subtitle": "Clique Development",
+    "content": "Li Shizhen (李士珍) became the Principal of Nanking Academy.  He suggested the merge of Chekiang and Nanking Academies and been adopted.",
+    "date": "1936",
+    "category": "Nationalist Period"
+  },
+  {
+    "title": "Central Police Academy",
+    "subtitle": "Police Education",
+    "content": "Nanking Government merged Chekiang and Nanking Academies, and established the new Central Police Academy as the only police academy in China. The affiliated Central Police Academy School Journal (中央警官學校校刊) was published since 1936.",
+    "date": "1936",
+    "category": "Nationalist Period"
+  },
+  {
+    "title": "Chinese Police Study Association",
+    "subtitle": "Clique Development",
+    "content": "With Juntong's influence, Dai Li transformed Chekiang Police Association into the Chinese Police Study Association. The affiliated journal Chinese Police (中國警察) was published between 1940 and 1943.",
+    "date": "1936",
+    "category": "Nationalist Period"
+  },
+  {
+    "title": "Sino-Japanese War",
+    "subtitle": "Historical Event",
+    "content": "The Sino-Japanese War started in 1937.",
+    "date": "1937-1945",
+    "category": "Nationalist Period"
+  },
+  {
+    "title": "Special Police Programme",
+    "subtitle": "Police Education",
+    "content": "Juntong leaders started Special Police Programme on behalf of Central Police Academy. During the wartime, the programmes were launched in Hunan, Gansu, Kweichow, Sichuan, Fukien, Chungking and Peiping.",
+    "date": "1937",
+    "category": "Nationalist Period"
+  },
+  {
+    "title": "Chinese Police Study Association",
+    "subtitle": "Clique Development",
+    "content": "Li Shizhen and his follower left the Juntong-dominated Chinese Police Study Association and established Study of Police Science (中華警察學術研究會) since 1940. The Association published their anunal pubblications and the Police Voice (警聲) series between 1941 and 1945.",
+    "date": "1940",
+    "category": "Nationalist Period"
+  },
+  {
+    "title": "10-year Proposal of Police Refrom",
+    "subtitle": "Police Reform",
+    "content": "Li Shizhen submitted his proposal for postwar reform. The proposal was preliminary adopted.",
+    "date": "1944",
+    "category": "Nationalist Period"
+  },
+  {
+    "title": "The Death of Dai Li",
+    "subtitle": "Clique Development",
+    "content": "Dai Li was died in air crash.",
+    "date": "1946",
+    "category": "Nationalist Period"
+  },
+  {
+    "title": "National Police Agency",
+    "subtitle": "Police Reform",
+    "content": "The National Police Agency (警政總署) was established in 1946. Juntong leader Tang Zong (唐縱) was appointed to be the Chief of the agency.",
+    "date": "1946",
+    "category": "Nationalist Period"
+  },
+  {
+    "title": "Five-year Proposal of Police Reform",
+    "subtitle": "Police Reform",
+    "content": "Wang Bi (汪弼), Division Head of National Police Agnecy, submitted 5-year proposal to override previos version that Li Shizhen submitted.",
+    "date": "1947",
+    "category": "Nationalist Period"
+  },
+  {
+    "title": "Abdication of Li Shizhen",
+    "subtitle": "Clique Development",
+    "content": "Li Shizhen resigned from the principal of Central Police Academy.",
+    "date": "1947",
+    "category": "Nationalist Period"
+  },
+  {
+    "title": "Taiwan Retreat",
+    "subtitle": "Historical Event",
+    "content": "In 1949, defeated Chinese Nationalist forces retreated to Taiwan, establishing a separate government, while the Chinese Communist Party established the new regime on the mainland.",
+    "date": "1949",
+    "category": "Nationalist Period"
+  }
+]

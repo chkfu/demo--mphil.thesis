@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend&family=Sigmar+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+HK:wght@900&display=swap');
+
+
+/* Style for the layer control container */
+.leaflet-control-layers span {
+  padding: 0;
+  font-family: 'Lexend', sans-serif;
+  font-size: 12px
+} 
+
+/* Style for the layer control inputs */
+.leaflet-control-layers input {
+  margin-right: 5px;
+}
+
+/* Style for the attribution control */
+.leaflet-control a {
+  font-family: 'Lexend', sans-serif;
+  font-size: 12px
+}

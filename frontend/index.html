@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <link href='https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.3/leaflet.css' rel='stylesheet'>
+    <script>
+      // AWS Amplify needs this to work. See https://github.com/aws/aws-sdk-js/issues/3673
+      const isBrowser = () => typeof window !== "undefined";
+      const isGlobal = () => typeof global !== "undefined";
+      if (!isGlobal() && isBrowser()) {
+        var global = window;
+      }
+    </script>
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MPhil Thesis DEMO</title>
+  </head>
+  <body>
+    <div id="root"></div>  
+    <script type="module" src="/src/index.jsx"></script>
+  </body>
+</html>

@@ -1,0 +1,216 @@
+[
+  {
+    "name": "Frederic Wakeman",
+    "position": "Sinologist - Modern Chinese History",
+    "description": "Frederic Wakeman was an American historian and scholar of Chinese history. He was a professor at the University of California, Berkeley, and known for his influential works on the Qing Dynasty and modern China, including 'The Great Enterprise' and 'Spymaster: Dai Li and the Chinese Secret Service.'",
+    "icon": "/images/literature/author/literature_author_fredericWakeman.png",
+    "background": "/images/literature/background/literature_background_UCBerkeley.jpg",
+    "profile": "https://www.historians.org/about-aha-and-membership/aha-history-and-archives/presidential-addresses/frederic-wakeman-jr/frederic-wakeman-jr-biography",
+    "publication": [
+      {
+        "itemTitle": "Spymaster",
+        "itemSubtitle": "Dai Li and the Chinese Secret Service",
+        "itemAuthor": "Frederic Wakeman, Jr.",
+        "publisher": "University of California Press",
+        "publisherPlace": "Berkeley, California",
+        "publisherDate": "June 2003",
+        "language": "English",
+        "itemCover": "/images/literature/publication/publication_wakeman_Spymaster.jpg",
+        "itemLink": "https://www.ucpress.edu/book/9780520234079/Spymaster,jpg",
+        "itemSummary": "Spymaster tells the story of Dai Li, leader of China's secret service during WWII. Using recently opened intelligence archives, the book traces Dai's rise from a rural troublemaker to the head of the world's largest spy organization. It reveals the tactics used by the secret police, including death squads, kidnappings, torture, and surveillance, to intimidate critics of the government. The book sheds light on China's Republican era and the start of the Cold War, highlighting the cooperation between Chinese and American special services operatives. It also explains how Dai Li's anti-Communist activities altered the balance of power, leading to Mao Zedong's rise to leadership. Finally, the book discusses how the Chinese adapted foreign methods and traditional techniques to create their modern intelligence service."
+      },
+      {
+        "itemTitle": "Policing Shanghai, 1927-1937",
+        "itemSubtitle": null,
+        "itemAuthor": "Frederic Wakeman, Jr.",
+        "publisher": "University of California Press",
+        "publisherPlace": "Berkeley, California",
+        "publisherDate": "November 1996",
+        "language": "English",
+        "itemCover": "/images/literature/publication/publication_wakeman_PolicingShanghai.jpg",
+        "itemLink": "https://www.ucpress.edu/book/9780520207615/policing-shanghai-1927-1937",
+        "itemSummary": "Frederic Wakeman's book offers a comprehensive view of the vibrant and corrupt prewar Shanghai, with its casinos, brothels, syndicates, and secret agents. The author examines the confrontation and collaboration between the Nationalist secret police and the Shanghai underworld. The book covers topics such as social controls, regional differences, imperialism, and power struggles among different consular police. Despite Chiang Kai-shek's efforts to reclaim the city from foreign powers, his failure was partly due to the Nationalist police force's corruption. Wakeman's study is a significant contribution to the study of Nationalist regime and modern Chinese urban history."
+      },
+      {
+        "itemTitle": "The Shanghai Badlands",
+        "itemSubtitle": "Wartime Terrorism and Urban Crime, 1937–1941",
+        "itemAuthor": "Frederic Wakeman, Jr.",
+        "publisher": "Cambridge University Press",
+        "publisherPlace": "Cambridge, United Kingdom",
+        "publisherDate": "November 2009",
+        "language": "English",
+        "itemCover": "/images/literature/publication/publication_wakeman_Badlands.jpg",
+        "itemLink": "https://www.bookdepository.com/Shanghai-Badlands-Frederic-Wakeman-Jr/9780521528719",
+        "itemSummary": "This book reveals the terrorist wars between Nationalist secret agents and Japanese assassins during the Japanese occupation of Shanghai from August 1937 to December 1941. These wars spread throughout the city, including the notorious western suburb, the Badlands. Despite authorities being aware, there were several assassinations, bombings, and raids. The book exposes the workings of terrorist groups and their links to the Green Gang through secret Chinese police files released by the CIA. It also explores the social history of Shanghai's underworld, worsening US-Japan relations, and the rivalry between Chiang Kai-shek and Wang Jingwei during China's War of Resistance."
+      },
+      {
+        "itemTitle": "Red Star over Shanghai, 1942-1952",
+        "itemSubtitle": null,
+        "itemAuthor": "Frederic Wakeman, Jr., Liang He (trans.)",
+        "publisher": "Renmin Chubanshe",
+        "publisherPlace": "Beijing, China",
+        "publisherDate": "May 2011",
+        "language": "Simplified Chinese",
+        "itemCover": "/images/literature/publication/publication_wakeman_RedStar.jpg",
+        "itemLink": "https://www.books.com.tw/products/CN10763424",
+        "itemSummary": "The book examines the social, political, and economic changes in Shanghai during 1942-1952. It focuses on the diverse groups, including workers, students, intellectuals, and women, who played crucial roles in the Chinese Communist Party's victory in Shanghai. Wakeman employs a narrative style that blends individual stories with social and political analysis, providing insights into the dynamics of revolution, political transformation, and social change during this tumultuous period in modern Chinese history."
+      },
+      {
+        "itemTitle": "American Police Advisers and the Nationalist Chinese Secret Service, 1930-1937",
+        "itemSubtitle": "Modern China, vol.18 no.2, pp.107-137",
+        "itemAuthor": "Frederic Wakeman, Jr.",
+        "publisher": "Sage Publications, Inc.",
+        "publisherPlace": null,
+        "publisherDate": "April 1992",
+        "language": "English",
+        "itemCover": "/images/literature/publication/publication_wakeman_ModernChina.jpg",
+        "itemLink": "https://www.jstor.org/stable/189369",
+        "itemSummary": "He explores the broader political context, including the rivalry between the US and the Soviet Union and the US desire to contain communism in Asia. The article draws on primary sources and provides insights into the challenges of cross-cultural collaboration and implementing Western-style law enforcement practices in a non-Western context. The article offers a valuable perspective on the intersection of Cold War politics and law enforcement practices in Asia."
+      }
+    ]
+  },
+  {
+    "name": "Alison Dray-Novey",
+    "position": "Sinologist - Modern Chinese History",
+    "description": "Alison Dray-Novey is an American historian and author who specializes in Chinese history. She has written several books and articles on the history of modern China, focusing on topics such as Chinese women's history, gender, and urbanization. She is currently a professor of history at Eastern Michigan University.",
+    "icon": "/images/literature/author/literature_author_Alison_Dray_Novey.png",
+    "background": "/images/literature/background/literature_background_UNorteDame.jpg",
+    "profile": "https://www.linkedin.com/in/dray-novey-alison-b98a28bb/",
+    "publication": [
+      {
+        "itemTitle": "The Twilight of the Beijing Gendarmerie, 1900-1924",
+        "itemSubtitle": "Modern China, vol.33 no.3, pp.349-376",
+        "itemAuthor": "Alison Dray-Novey",
+        "publisher": "Sage Publications, Inc.",
+        "publisherPlace": null,
+        "publisherDate": "July 2007",
+        "language": "English",
+        "itemCover": "/images/literature/publication/publication_dNovey_ModernChina.jpg",
+        "itemLink": "https://www.jstor.org/stable/20062675",
+        "itemSummary": "The article examines the history of the Beijing Gendarmerie, a police force established in the late 19th century to maintain order in the city. The book explores the role of the Gendarmerie during a period of significant political and social change in China, including the Boxer Rebellion, the fall of the Qing dynasty, and the establishment of the Republic of China."
+      }
+    ]
+  },
+  {
+    "name": "Tong Lam",
+    "position": "Historian - Modern Chinese History",
+    "description": "Tong Lam is a professor of modern and contemporary Chinese history at the University of Toronto. His research interests include social surveys, urban infrastructures, ruins, and imperial ambitions. He has published a photo-essay book called Abandoned Futures and exhibited his work globally.",
+    "icon": "/images/literature/author/literature_author_tongLam.png",
+    "background": "/images/literature/background/literature_background_literature_background_UToronto.jpg",
+    "profile": "https://www.utm.utoronto.ca/historical-studies/people/tong-lam",
+    "publication": [
+      {
+        "itemTitle": "Policing the Imperial Nation: Sovereignty, International Law, and the Civilizing Mission in Late Qing China",
+        "itemSubtitle": "Comparative Studies in Society and History, vol.52 no.4, pp.881-908",
+        "itemAuthor": "Tong Lam",
+        "publisher": "Cambridge University Press",
+        "publisherPlace": null,
+        "publisherDate": "Ocotober 2010",
+        "language": "English",
+        "itemCover": "/images/literature/publication/publication_lam_CSSH.jpg",
+        "itemLink": "https://www.jstor.org/stable/40864900?read-now=1&seq=3#page_scan_tab_contents",
+        "itemSummary": "The article argues that late Qing China quickly adopted modern governance technologies in response to changing geopolitical realities, expanding police power beyond law enforcement into population management associated with the colonial civilizing mission. It proposes the concept of 'authoritarian governmentality' and explores how political technologies were appropriated and modified for state transformation in Qing China."
+      }
+    ]
+  },
+  {
+    "name": "Shu-qing Lai",
+    "position": "Researcher - Modern Chinese History",
+    "description": "Lai Shuqing graduated from National Chengchi University's Master's Program in History and researches the development of police administration under the Nationalist government. She edited serveral achives collections on befhalf of Academia Historica, specializing in publications on police administration history.",
+    "icon": null,
+    "background": "/images/literature/background/literature_background_literature_background_historiaAcademia.jpg",
+    "profile": null,
+    "publication": [
+      {
+        "itemTitle": "Historical Sources of Policing vol. 1-5",
+        "itemSubtitle": "Archives Collection",
+        "itemAuthor": "Shuqiing Lai ed.",
+        "publisher": "Academia Historia",
+        "publisherPlace": "Taipei, Taiwan",
+        "publisherDate": "1993",
+        "language": "Traditional Chinese",
+        "itemCover": "/images/literature/publication/publication_lai_jingzhingshiliao.jpg",
+        "itemLink": "https://www.drnh.gov.tw/p/405-1003-14015,c221.php?Lang=zh-tw",
+        "itemSummary": "The book is a chronological record of the evolution and development of police administration in Taiwan, based on various collections from the National Archives Administration, including government gazettes, archives, and related sources. It covers topics such as institutions, education, funding, personnel administration, and special police units."
+      },
+      {
+        "itemTitle": "Establishment and Development of Police Administration System during the Nationalist Government Period (1925-1948)",
+        "itemSubtitle": "Master Thesis",
+        "itemAuthor": "Shuqiing Lai",
+        "publisher": "National Chengchi University",
+        "publisherPlace": "Taipei, Taiwan",
+        "publisherDate": "1992",
+        "language": "Traditional Chinese",
+        "itemCover": "/images/literature/publication/publication_lai_thesis.jpg",
+        "itemLink": "https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22080NCCU2493004%22.&searchmode=basic",
+        "itemSummary": ""
+      }
+    ]
+  },
+  {
+    "name": "Hui-hsuan Liu",
+    "position": "Police Instructor - Police Studies",
+    "description": "Hui-hsuan Liu is a former associate professor at Taiwan Police College who has published multiple articles in the National Taiwan Police College Bulletin, focusing on the development of intellectual elites and the police in modern China.",
+    "icon": null,
+    "background": "/images/literature/background/literature_background_literature_background_TPC.jpg",
+    "profile": null,
+    "publication": [
+      {
+        "itemTitle": "Dai Li and the 'Tezhong Jingcha Xunlianban' of the Central Police Academy during 1937 to 1947",
+        "itemSubtitle": "National Taiwan Police College Bulletin, vol.5 no.5, pp.1-36",
+        "itemAuthor": "Hui-hsuan Liu",
+        "publisher": "National Taiwan Police College",
+        "publisherPlace": "Taipei, Taiwan",
+        "publisherDate": "April 2013",
+        "language": "Traditional Chinese",
+        "itemCover": "/images/literature/publication/publication_liu_thesis_TBPCB.jpg",
+        "itemLink": "https://tpl.ncl.edu.tw/NclService/JournalContentDetail?SysId=A13018544&cn%5B0%5D=575&q%5B0%5D.f=KW&q%5B0%5D.i=%E6%B5%99%E6%B1%9F&page=5&pageSize=1&orderField=score&orderType=desc",
+        "itemSummary": "This article looks at how the police sector has changed over time in China, by studying history. The police became bigger and more powerful under the National Government, and a special training programme was started by Dai Li to make them even better. But, different groups had different ideas about what the police should do, and this caused problems. This research will study how Dai Li and the Training Programme affected the police and attempt to show how important they are in China."
+      }
+    ]
+  },
+  {
+    "name": "Jing Sun",
+    "position": "Police Instructor and Researcher - Police Studies",
+    "description": "Sun Jing graduated from phD programme at Nanjing University, China. She is an associate professor in Sichuan Police College.",
+    "icon": "/images/literature/author/literature_author_sunJing.png",
+    "background": "/images/literature/background/literature_background_literature_background_SPC.jpg",
+    "profile": "https://www.scpolicec.edu.cn/info/1253/2121.htm",
+    "publication": [
+      {
+        "itemTitle": "A Study on the Police Group and Police Administration in the Republic of China",
+        "itemSubtitle": "Wuhan, 1945-1949",
+        "itemAuthor": "Jing Sun",
+        "publisher": "Rimin Ribao Chubanshe",
+        "publisherPlace": "Beijing, China",
+        "publisherDate": "2015",
+        "language": "Simplified Chinese",
+        "itemCover": "/images/literature/publication/publication_sun_WuhanPolice.jpg",
+        "itemLink": "https://book.douban.com/subject/26789016/",
+        "itemSummary": "This book analyzes the police group and administration in Wuhan City from 1945 to 1949. It is divided into seven chapters, covering topics such as police institutions in Wuhan, the police group after the anti-Japanese War, police personnel and welfare system, post-war police education and training, police functions after the war, police reforms, and factors affecting police administration construction."
+      }
+    ]
+  },
+  {
+    "name": "Yigong Su and Yanlong Han",
+    "position": "Scholars - Legal Studies",
+    "description": "Yanlong Han is a researcher at the Law Institute of the Chinese Academy of Social Sciences. Yigong Su is a professor at the Law School of Tsinghua University.",
+    "icon": "/images/literature/author/literature_author_hanandsu.png",
+    "background": "/images/literature/background/literature_background_literature_background_CASS.jpg",
+    "profile": null,
+    "publication": [
+      {
+        "itemTitle": "Modern Chinese History, vol.1-2",
+        "itemSubtitle": null,
+        "itemAuthor": "Yigong Su and Yanlong Han",
+        "publisher": "Shehui Wenxian Chubanshe",
+        "publisherPlace": "Beijing, China",
+        "publisherDate": "2000",
+        "language": "Traditional Chinese",
+        "itemCover": "/images/literature/publication/publication_su_ModernPolice.jpg",
+        "itemLink": "https://www.books.com.tw/products/CN10033454",
+        "itemSummary": "This book elucidates a history of modern Chinese police by collecting various books and periodicals from the library of the Law Research Institute of the Chinese Academy of Social Sciences. It discusses the emergence, formation, and development of modern police in China, and explore their nature, structure, functions, and main regulations and systems."
+      }
+    ]
+  }
+]
