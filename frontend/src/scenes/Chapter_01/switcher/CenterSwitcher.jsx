@@ -5,7 +5,7 @@ import { useScrollYHook } from '../../../theme/useScrollYHook';
 import { emergeLines, slide_mapCentre } from '../../../theme/styleDeclaration';
 // from slides
 
-function CenterSwitcher({ center, setCenter }) {
+function CenterSwitcher({ setCenter }) {
 
   // scrolling detector
   let scrollVal = useScrollYHook();

@@ -32,7 +32,7 @@ function Section_01() {
         </FullPageSlideText>
 
         <FullPageButtonBox>
-          <WhiteContainedInDark text='Learn More' linkTo={ linkTo } />
+          <WhiteContainedInDark text='Find Timeline' linkTo={ linkTo } />
         </FullPageButtonBox>
 
       </FullPageContentBox>

@@ -29,7 +29,7 @@ function Section_02() {
         </FullPageSlideText>
 
         <FullPageButtonBox>
-          <WhiteContainedInDark text='Learn More' linkTo={ linkTo } />
+          <WhiteContainedInDark text='Learn more' linkTo={ linkTo } />
         </FullPageButtonBox>
 
       </FullPageContentBox>

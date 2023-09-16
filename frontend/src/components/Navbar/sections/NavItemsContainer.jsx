@@ -77,7 +77,7 @@ const ExpandedContainer = () => {
     <Box sx={ ExpandedContainerStyle }>
       <NavItem to='/' content='Home' />
       <NavItem to='/literatures' content='Literatures' />
-      <NavItem to='/resources' content='Resources' />
+      <NavItem to='/maps' content='Maps' />
     </Box>
   );
 };

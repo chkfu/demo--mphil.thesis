@@ -11,7 +11,7 @@ import { Provider } from 'react-redux';
 import Navbar from './components/Navbar';
 import Home from './scenes/Home';
 import Literatures from './scenes/Literatures';
-import Resources from './scenes/Resources';
+import Maps from './scenes/Resources';
 import Foreword from './scenes/Foreword';
 // chapters
 import Chapter_01 from './scenes/Chapter_01';
@@ -42,7 +42,7 @@ function App() {
           <Routes>
             <Route path='/' element={ <Home /> } />
             <Route path='/literatures' element={ <Literatures /> } />
-            <Route path='/resources' element={ <Resources /> } />
+            <Route path='/maps' element={ <Maps /> } />
 
             <Route path='/chapter-foreword' element={ <Foreword /> } />
             <Route path='/chapter-01' element={ <Chapter_01 /> } />

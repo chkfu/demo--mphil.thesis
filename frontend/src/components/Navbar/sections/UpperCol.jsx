@@ -46,7 +46,7 @@ function UpperCol() {
       <Link to='/' style={ LinkStyle }>
         <Typography
           sx={ TextStyle }>
-          MyThesis DEMO
+          MPhil Thesis
         </Typography>
       </Link>
 
