@@ -34,12 +34,12 @@ export const font = {
 // URLS
 
 export const mapURL = {
-  HomeMap_LateQingPeriod: 'https://ykvkm8qy5j.execute-api.eu-west-2.amazonaws.com/prod/api/v1/maps/home-map/late-qing-period',
-  HomeMap_PreWarPeriod: 'https://ykvkm8qy5j.execute-api.eu-west-2.amazonaws.com/prod/api/v1/maps/home-map/pre-war-period',
-  HomeMap_WartimePeriod: 'https://ykvkm8qy5j.execute-api.eu-west-2.amazonaws.com/prod/api/v1/maps/home-map/wartime-period',
-  HomeMap_StatMap: 'https://ykvkm8qy5j.execute-api.eu-west-2.amazonaws.com/prod/api/v1/maps/home-map//stat-layer',
-  Timeline_Historical: 'https://ykvkm8qy5j.execute-api.eu-west-2.amazonaws.com/prod/api/v1/timeline',
-  Literature: 'https://ykvkm8qy5j.execute-api.eu-west-2.amazonaws.com/prod/api/v1/literatures'
+  HomeMap_LateQingPeriod: 'https://api-demo-website-mphil-thesis.onrender.com/api/v1/maps/home-map/late-qing-period',
+  HomeMap_PreWarPeriod: 'https://api-demo-website-mphil-thesis.onrender.com/api/v1/maps/home-map/pre-war-period',
+  HomeMap_WartimePeriod: 'https://api-demo-website-mphil-thesis.onrender.com/api/v1/maps/home-map/wartime-period',
+  HomeMap_StatMap: 'https://api-demo-website-mphil-thesis.onrender.com/api/v1/maps/home-map//stat-layer',
+  Timeline_Historical: 'https://api-demo-website-mphil-thesis.onrender.com/api/v1/timeline',
+  Literature: 'https://api-demo-website-mphil-thesis.onrender.com/api/v1/literatures'
 };
 
 
