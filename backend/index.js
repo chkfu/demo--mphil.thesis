@@ -1,5 +1,4 @@
 const express = require('express');
-const serverless = require('serverless-http');
 const mongoose = require('mongoose');
 const dotenv = require('dotenv');
 const app = require('./app');
@@ -11,4 +10,7 @@ const DATABASE = process.env.DATABASE_URL.replace('<PASSWORD>', process.env.DATA
 mongoose.set('strictQuery', true);
 mongoose.connect(DATABASE).then(console.log('Database is connected successfully...'));
 
-module.exports.handler = serverless(app);
+const PORT = 4000;
+app.listen(process.env.DATABASE_PORT, () => {
+  console.log(`App listening to port ${process.env.DATABASE_PORT}...`);
+});
