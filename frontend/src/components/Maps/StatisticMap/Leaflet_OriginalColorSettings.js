@@ -114,19 +114,19 @@ export const Leaflet_OriginalColorSettings = (item, category, isHovering) => {
   // secondaryNumOfGrads
   else if (category === 'secondaryNumOfGrads' || category === 'tertiaryNumOfGrads') {
     if (isHovering)
-      return colorCode.green.hover;
+      return colorCode.red.hover;
     else if ((item.secondaryNumOfGrads >= 0 && item.secondaryNumOfGrads <= 50) || (item.tertiaryNumOfGrads >= 0 && item.tertiaryNumOfGrads <= 50))
-      return colorCode.green.c100;
+      return colorCode.red.c100;
     else if ((item.secondaryNumOfGrads > 50 && item.secondaryNumOfGrads <= 100) || (item.tertiaryNumOfGrads >= 50 && item.tertiaryNumOfGrads <= 100))
-      return colorCode.green.c200;
+      return colorCode.red.c200;
     else if ((item.secondaryNumOfGrads > 100 && item.secondaryNumOfGrads <= 200) || (item.tertiaryNumOfGrads >= 100 && item.tertiaryNumOfGrads <= 200))
-      return colorCode.green.c300;
+      return colorCode.red.c300;
     else if ((item.secondaryNumOfGrads > 200 && item.secondaryNumOfGrads <= 400) || (item.tertiaryNumOfGrads >= 200 && item.tertiaryNumOfGrads <= 400))
-      return colorCode.green.c400;
+      return colorCode.red.c400;
     else if ((item.secondaryNumOfGrads > 400 && item.secondaryNumOfGrads <= 800) || (item.tertiaryNumOfGrads >= 400 && item.tertiaryNumOfGrads <= 800))
-      return colorCode.green.c500;
+      return colorCode.red.c500;
     else if (item.secondaryNumOfGrads > 800 || item.secondaryNumOfGrads > 800)
-      return colorCode.green.c600;
+      return colorCode.red.c600;
     else
       return colorCode.grey.inactive;
   }

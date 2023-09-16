@@ -6,7 +6,7 @@ import { colorCode } from './../../../../../components/Maps/StatisticMap/Leaflet
 // function
 export const BarItemColorMatcher = (input) => {
   if (input === "primaryNumOfSchools")
-    return `colorCode.green.c100;`;
+    return colorCode.green.c100;
   if (input === "primaryNumOfGrads" || input === "secondaryNumOfGrads")
     return colorCode.red.c100;
   if (input === "primaryNumOfStds" || input === "secondaryNumOfStds")
